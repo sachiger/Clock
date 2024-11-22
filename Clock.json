@@ -1,0 +1,24 @@
+{
+    "name": "Clock",
+    "version": "0.2.0",
+    "description": "Create and manage system time clock for IoT applications",
+    "keywords": "example, platformio, library",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/sachiger/Clock.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Sachi Gerlitz",
+        "email": "sachi@gerlitz.co.il",
+        "url": "https://sachigerlitz.smugmug.com/",
+        "maintainer": true
+      }
+    ],
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "espressif8266"
+  }
+  
