@@ -1,0 +1,11 @@
+Clock   KEYWORD1
+begin   KEYWORD2
+MasterClock    KEYWORD2
+computeDaychange KEYWORD2
+setDateFromDayOfYear KEYWORD2
+ComputeDayOfYear KEYWORD2
+IsThisLeapYear KEYWORD2
+ComputeDayOfWeek KEYWORD2
+StartStopwatch KEYWORD2
+ElapseStopwatch KEYWORD2
+PrintElapsed KEYWORD2
